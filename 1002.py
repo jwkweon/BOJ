@@ -48,3 +48,7 @@ t = input()
 for i in range(int(t)):
     x_1, y_1, r_1, x_2, y_2, r_2 = map(int, input().split())
     compare(cal_distance(x_1, y_1, x_2, y_2), r_1, r_2)
+    
+    
+    
+print("1002")
