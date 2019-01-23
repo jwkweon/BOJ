@@ -51,4 +51,3 @@ for i in range(int(t)):
     
     
     
-print("1002")
